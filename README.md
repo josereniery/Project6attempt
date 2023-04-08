@@ -31,7 +31,7 @@ The following EXTRA features are implemented:
 
 ## Video Demo
 
-
+![](proj6.gif)
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
